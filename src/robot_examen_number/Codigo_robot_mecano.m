@@ -1,5 +1,5 @@
 % =========================================================
-%  Configuración cinemática - Robot Mecanum
+%  Configuración cinemática 
 % =========================================================
 clear; close all; clc;
 
